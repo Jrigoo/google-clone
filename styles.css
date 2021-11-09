@@ -254,6 +254,7 @@ body {
   background-color: var(--footer);
   border: none;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .main__btns button:hover {
